@@ -1,4 +1,4 @@
-package com.billiardscorern
+package com.zvone.billiardScore
 
 import android.app.Application
 import com.facebook.react.PackageList
