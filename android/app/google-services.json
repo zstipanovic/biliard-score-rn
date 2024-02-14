@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637026779899",
+    "project_id": "billiard-score-ecbda",
+    "storage_bucket": "billiard-score-ecbda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637026779899:android:b1a088aaeb1844a26b265e",
+        "android_client_info": {
+          "package_name": "com.zvone.billiardScore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8JHyc3R2GgOI9fQigiNdFKSvQaNty-D0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

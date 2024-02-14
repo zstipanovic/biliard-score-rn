@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB7znw4uCIIUuv5wI5JBH21ZmgY7TpkE90</string>
+	<key>GCM_SENDER_ID</key>
+	<string>637026779899</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.zvone.billiardScore</string>
+	<key>PROJECT_ID</key>
+	<string>billiard-score-ecbda</string>
+	<key>STORAGE_BUCKET</key>
+	<string>billiard-score-ecbda.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:637026779899:ios:e639088740b8fcac6b265e</string>
+</dict>
+</plist>
