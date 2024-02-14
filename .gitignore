@@ -68,3 +68,8 @@ buck-out/
 
 # testing
 /coverage
+
+.firestore-debug
+.firebase-debug
+/ios/GoogleService-Info.plist
+android/app/google-services.json
