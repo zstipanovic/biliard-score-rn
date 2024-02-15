@@ -1,0 +1,3 @@
+type SplashScreenParamList = {
+  SplashScreen: undefined;
+};

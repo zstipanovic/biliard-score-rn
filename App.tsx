@@ -1,7 +1,7 @@
 import React from 'react';
 import firestore from '@react-native-firebase/firestore';
 import auth from '@react-native-firebase/auth';
-import { SafeAreaView, Text, View } from 'react-native';
+import { RootNavigator } from '~/navigators';
 
 if (__DEV__) {
   console.log('Running in dev mode');
@@ -10,13 +10,7 @@ if (__DEV__) {
 }
 
 function App(): JSX.Element {
-  return (
-    <SafeAreaView>
-      <View>
-        <Text>Test</Text>
-      </View>
-    </SafeAreaView>
-  );
+  return <RootNavigator />;
 }
 
 export default App;
